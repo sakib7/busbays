@@ -36,5 +36,5 @@ Again no update is required, Just do the delete and insert. Inserting will have 
 4. **Journey date** will be loaded after being verified from booking_config.
 5. **Journey Time** :  This selection will lead to an unique route id.
 ### seat selection
-1. Create bus seat model using buttons and select a seat from the ones that hasn't been booked yet.
+1. Create bus seat model using buttons and select a seat from the ones that haven't been booked yet.
 2. Finally add passenger info.
