@@ -20,7 +20,7 @@ I believe, updating a route means creating a new route. We, therefore, won't do 
  **Create a new route**
 
  Since routes can have any number of bus stops, we'll have to create a dynamic form for adding new route. New route form will have the following:
-- There will be an add a bus_stop button which will dynamically create a drop down for bus_stop and two text fields for distance and arriving time.
+- There will be an *add a bus_stop* button which will dynamically create a drop down for **bus_stop** and two text fields for **distance** and **arriving time**.
 - Drop downs for source and destination city, driver, supervisor, bus , restaurant.  
 
  **Perform read and delete operations on routes**
