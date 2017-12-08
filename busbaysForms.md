@@ -29,10 +29,11 @@ I believe, updating a route means creating a new route. We, therefore, won't do 
 
 Again no update is required, Just do the delete and insert. Inserting will have two pages : 
 ### route selection
-1. **Source city** : Selecting a city here will update the destination city and boarding bus_stop drop down.
-2. **Destination city** : This will update arrival bus stop.
-3. **Boarding and arrival point** : Select any of the bus stop
-4. **Journey date** : This drop down will be loaded after being verified from booking_config.
+1. **boarding city**  will update boarding points drop down.
+2. **boarding point** will update arrival city and bus stops.
+2. **arrival city** will update arrival bus stops.
+3. **arrival bus stop** will update boarding time.
+4. **Journey date** will be loaded after being verified from booking_config.
 5. **Journey Time** :  This selection will lead to an unique route id.
 ### seat selection
 1. Create bus seat model using buttons and select a seat from the ones that hasn't been booked yet.
