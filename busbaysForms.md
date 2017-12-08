@@ -1,6 +1,6 @@
 ![BusBays Schema](https://user-images.githubusercontent.com/20136237/33782855-830fae2e-dc84-11e7-902d-af5fd7adb073.JPG)
 # BusBays Forms Development To-do List
-**![click here for busbays.sql](https://gist.github.com/sakib7/fc44d277ecdbbf3fc22c7bbfa3364a7c.js)**
+**![click here for busbays.sql](https://gist.github.com/sakib7/fc44d277ecdbbf3fc22c7bbfa3364a7c)**
 
 >Please pay attention to the **foreign key** dependencies among different entities and maintain the required chronological order while developing the modules. Also pull the foreign keys in a **drop down** menu.
 
